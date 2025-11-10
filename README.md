@@ -1,4 +1,6 @@
-# This project analyzes food assistance accessibility across New York City by linking food pantry locations with census tract and neighborhood-level (NTA) socioeconomic data.
+# NYC Food Supply Gap Analysis 
+
+This project analyzes food assistance accessibility across New York City by linking food pantry locations with census tract and neighborhood-level (NTA) socioeconomic data.
 
 ## Project Structure
 
