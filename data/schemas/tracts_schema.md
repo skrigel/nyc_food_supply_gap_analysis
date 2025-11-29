@@ -1,0 +1,6 @@
+| Data Field   | Data Type   |
+|:-------------|:------------|
+| geoid        | int64       |
+| nta2020      | object      |
+| geometry     | object      |
+| TotalPop     | float64     |
