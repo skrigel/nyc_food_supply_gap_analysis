@@ -1,0 +1,11 @@
+| Data Field               | Data Type   |
+|:-------------------------|:------------|
+| nta2020                  | object      |
+| ntaname                  | object      |
+| geoid                    | int64       |
+| geometry                 | object      |
+| Supply Gap (lbs.)        | float64     |
+| pantry_count             | int64       |
+| Food Insecure Percentage | float64     |
+| TotalPop                 | float64     |
+| Food Insecure Population | float64     |
